@@ -194,13 +194,13 @@
 			isa = PBXGroup;
 			children = (
 				07F41A8524B0FC8100651585 /* SwiftUI_Views */,
-				07F41AA824B1012F00651585 /* SwiftUI_Views_TabView */,
-				07F41AEE24B105BF00651585 /* SwiftUI_Views_ListView */,
-				07F41B0924B1112400651585 /* SwiftUI_Views_Toggle */,
-				07F41B2124B1146800651585 /* SwiftUI_Views_Images */,
-				07F41B3924B1215900651585 /* SwiftUI_Views_ZStack */,
 				07F41B5124B1247100651585 /* SwiftUI_Views_AlertView */,
 				07F41B6924B1279E00651585 /* SwiftUI_Views_Forms */,
+				07F41B2124B1146800651585 /* SwiftUI_Views_Images */,
+				07F41AEE24B105BF00651585 /* SwiftUI_Views_ListView */,
+				07F41AA824B1012F00651585 /* SwiftUI_Views_TabView */,
+				07F41B0924B1112400651585 /* SwiftUI_Views_Toggle */,
+				07F41B3924B1215900651585 /* SwiftUI_Views_ZStack */,
 				07F41A8424B0FC8100651585 /* Products */,
 			);
 			sourceTree = "<group>";

@@ -7,7 +7,7 @@
 		<key>SwiftUI_Views.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>4</integer>
 		</dict>
 		<key>SwiftUI_Views_AlertView.xcscheme_^#shared#^_</key>
 		<dict>
@@ -17,17 +17,17 @@
 		<key>SwiftUI_Views_Forms.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>7</integer>
+			<integer>2</integer>
 		</dict>
 		<key>SwiftUI_Views_Images.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>4</integer>
+			<integer>0</integer>
 		</dict>
 		<key>SwiftUI_Views_ListView.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>2</integer>
+			<integer>6</integer>
 		</dict>
 		<key>SwiftUI_Views_TabView.xcscheme_^#shared#^_</key>
 		<dict>
@@ -37,12 +37,12 @@
 		<key>SwiftUI_Views_Toggle.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>3</integer>
+			<integer>7</integer>
 		</dict>
 		<key>SwiftUI_Views_ZStack.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>6</integer>
+			<integer>3</integer>
 		</dict>
 	</dict>
 </dict>
